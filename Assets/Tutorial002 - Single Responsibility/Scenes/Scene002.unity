@@ -418,7 +418,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damageAmount: 10
   badGeneralPlayerClass: {fileID: 1656406859}
-  basePlayer: {fileID: 0}
+  basePlayer: {fileID: 2112748046}
 --- !u!4 &305323083
 Transform:
   m_ObjectHideFlags: 0
